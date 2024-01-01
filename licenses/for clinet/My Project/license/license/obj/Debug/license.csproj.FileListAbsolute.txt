@@ -1,0 +1,40 @@
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.exe.config
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.exe
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.pdb
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.frm001_main.resources
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.Properties.Resources.resources
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.exe
+C:\Users\admin\Desktop\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.pdb
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.exe.config
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.exe
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.pdb
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.AssemblyReference.cache
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.frm001_main.resources
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.Properties.Resources.resources
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.GenerateResource.cache
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.CoreCompileInputs.cache
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.exe
+D:\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.pdb
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.exe.config
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.exe
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\bin\Debug\license.pdb
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.AssemblyReference.cache
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.frm001_main.resources
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.Properties.Resources.resources
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.GenerateResource.cache
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.CoreCompileInputs.cache
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.exe
+D:\Sales Project\MyWork\my projects\licenses\for clinet\My Project\license\license\obj\Debug\license.pdb
+D:\my projectes\licenses\for clinet\My Project\license\license\bin\Debug\license.exe.config
+D:\my projectes\licenses\for clinet\My Project\license\license\bin\Debug\license.exe
+D:\my projectes\licenses\for clinet\My Project\license\license\bin\Debug\license.pdb
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.AssemblyReference.cache
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.frm001_main.resources
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.Properties.Resources.resources
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.GenerateResource.cache
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.csproj.CoreCompileInputs.cache
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.exe
+D:\my projectes\licenses\for clinet\My Project\license\license\obj\Debug\license.pdb

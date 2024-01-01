@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tblFont>
+    <RowIndex>0</RowIndex>
+    <formName>frmSplash00</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>1</RowIndex>
+    <formName>frmMain01</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>2</RowIndex>
+    <formName>frmConnectionSettings02</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>3</RowIndex>
+    <formName>frmLogin03</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>4</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>5</RowIndex>
+    <formName>frmAccount05</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>6</RowIndex>
+    <formName>frmMainMenu06</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>7</RowIndex>
+    <formName>frmPermissionsGroup07</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>8</RowIndex>
+    <formName>frmManufacturers08</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>627</Left>
+    <Top>325</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>9</RowIndex>
+    <formName>frmProducts09</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>10</RowIndex>
+    <formName>frmCategories10</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>11</RowIndex>
+    <formName>frmAccounts11</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>12</RowIndex>
+    <formName>frmMeasureUnit12</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>13</RowIndex>
+    <formName>frmEncapsulationUnits13</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>17</fontSize>
+    <Left>372</Left>
+    <Top>183</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>14</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>15</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>16</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>17</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>18</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>19</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>20</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+</DocumentElement>

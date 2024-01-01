@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UniqID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Non</Value>
+    </Setting>
+    <Setting Name="EndDateOfLicense" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2000/1/1</Value>
+    </Setting>
+    <Setting Name="programName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Non</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

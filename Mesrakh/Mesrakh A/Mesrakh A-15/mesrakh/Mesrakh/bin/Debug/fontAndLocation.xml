@@ -1,0 +1,211 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <tblFont>
+    <RowIndex>0</RowIndex>
+    <formName>frmSplash00</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>1</RowIndex>
+    <formName>frmMain01</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>2</RowIndex>
+    <formName>frmConnectionSettings02</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>3</RowIndex>
+    <formName>frmLogin03</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>4</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>5</RowIndex>
+    <formName>frmAccount05</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>758</Left>
+    <Top>362</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>6</RowIndex>
+    <formName>frmMainMenu06</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>7</RowIndex>
+    <formName>frmPermissionsGroup07</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>752</Left>
+    <Top>389</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>8</RowIndex>
+    <formName>frmManufacturers08</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>324</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>9</RowIndex>
+    <formName>frmProductsAndServices09</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>324</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>10</RowIndex>
+    <formName>frmCategories10</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>322</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>11</RowIndex>
+    <formName>frmAccounts11</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>12</RowIndex>
+    <formName>frmMeasureUnit12</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>13</RowIndex>
+    <formName>frmEncapsulationUnits13</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>324</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>14</RowIndex>
+    <formName>frmproductAndServicesDetails14</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>322</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>15</RowIndex>
+    <formName>frmEnterprise15</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>324</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>16</RowIndex>
+    <formName>frmEnterpriseBranches16</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>324</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>17</RowIndex>
+    <formName>frmCountries17</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>18</RowIndex>
+    <formName>frmEmployees18</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>19</RowIndex>
+    <formName>frmClients19</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>20</RowIndex>
+    <formName>frmJournalEntry20</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>20</RowIndex>
+    <formName>frmShifts21</formName>
+    <fontName>Microsoft JhengHei</fontName>
+    <fontSize>12</fontSize>
+    <Left>626</Left>
+    <Top>324</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>21</RowIndex>
+    <formName>frmOperationUnits22</formName>
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>22</RowIndex>
+    <formName>frmSales23</formName>
+    <fontName>Arial</fontName>
+    <fontSize>20</fontSize>
+    <Left>208</Left>
+    <Top>38</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>23</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+  <tblFont>
+    <RowIndex>24</RowIndex>
+    <formName />
+    <fontName>Microsoft Sans Serif</fontName>
+    <fontSize>5</fontSize>
+    <Left>1000</Left>
+    <Top>1000</Top>
+  </tblFont>
+</DocumentElement>

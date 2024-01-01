@@ -1,0 +1,118 @@
+Create New Form إنشاء نموذج جديد
+
+
+01 / --------------------------- في خصائص النموذج
+FormBorderStyle  None
+
+02 / --------------------------- في خصائص النموذج
+RightToLeft  Yes
+
+03 / --------------------------- في خصائص النموذج
+RightToLeftLayout True
+
+04 /---------------------------- في خصائص النموذج 
+Font  Size  12
+
+05 /---------------------------- 
+     انشاء حاوية رئيسية
+
+06 /---------------------------- في اكواد النموذج
+ بعد انشاء حاوية رئيسية
+
+
+      public frmManufacturers08()
+        {
+            InitializeComponent();
+            Allfrm08ElementsEventsAndProperties(true, true); // جميع عناصر النموذج
+        }
+
+        public void Allfrm08ElementsEventsAndProperties(bool Properties, bool Events = false)  //  جميع العناصر
+        {
+            frm08EventsAndProperties(Properties, Events); // النموذج
+            pnl08001EventsAndProperties(Properties, Events);// الحاوية الرئيسية
+
+        }
+
+        private void frm08EventsAndProperties(bool Properties, bool Events = false) // النموذج 
+        {
+
+            if (Properties == true & Events == false)
+            {
+                ElementsTools.Form_.CustumProperties(this);
+
+            }
+            else if (Properties == true & Events == true)
+            {
+                ElementsTools.Form_.CustumProperties(this, ColorPropertyName.BackColor_3, true, true);
+            }
+        }
+
+        private void pnl08001EventsAndProperties(bool Properties, bool Events = false) // الحاوية الرئيسية
+        {
+
+
+            if (Properties == true & Events == false)
+            {
+                ElementsTools.panel_.CustumProperties(pnl08001);
+            }
+            else if (Properties == true & Events == true)
+            {
+                ElementsTools.panel_.CustumProperties(pnl08001, ColorPropertyName.ForeColor_3, true, true);
+            }
+        }
+
+
+07 /----------------------------وذلك لكي يمكننا الذهاب الى نموذج اخر ومن ثم العودة النموذج مرة اخرى  GeneralVariables في كلاس
+
+    public static  frmPermissionsGroup07 _frmPermissionsGroup07 ; 
+
+08 / ---------------------------وذلك لتحديث الخصائص بعد العمليات الرئيسية  مثل فتح نموذج او تغيير لغة او تغيير حجم  GeneralAction في كلاس
+
+        if (GeneralVariables._frmPermissionsGroup07 != null) { GeneralVariables._frmPermissionsGroup07.Allfrm07ElementsEventsAndProperties(true); } // تحديث خصائص نموذج مجموعات الصلاحيات
+
+          واضافة النموذج الجديد في ميثود اغلاق جميع النماذج
+
+
+09 / ----------------------------- وذلك لحفظ واسترجاع الخط والموقع والحجم   DisplayMode الموجودة بالكلاس fillTblFontAndLocation في الميثود
+
+10  / ------------------------------ fontAndLocation.xml حذف ملف 
+
+11  / ------------------------------ تحديث اسم الميثود الموجود بين قوسين في الفورم الجديد 
+      public frmManufacturers08()
+        {
+            InitializeComponent();
+            AllEventsAndProperties(true, true); // جميع عناصر النموذج
+        }
+
+12  / ---------------------------------- PermissionObjectes  تعبئة اسم النموذج في كلاس الكائنات
+
+13  / ----------------------------------في قاعدة البيانات  TblObjects تعبئة اسم النموذج في جدول الكائنات
+
+insert into TblObjects values ('الاتصال بقواعد البيانات','DataBases Connections');
+insert into TblObjects values ('الشركات الصانعة','manufacturers');
+insert into TblObjects values ('حسابات المستخدمين','Users Accounts');
+insert into TblObjects values ('إدارة صلاحيات مجموعات المستخدمين','Manage User Group Permissions');
+insert into TblObjects values ('المنتجات','Products');
+insert into TblObjects values ('الموظفين','Employees');
+
+
+14  / ---------------------------------TblPermissions  من قاعدة البيانات  اضافة صلاحيات الوصول الى النموذج من خلال جدول   
+
+
+
+
+
+15 / ----------------------------- Cultures اضافة ترجمة اسم النموذج الجديد في كلاس
+
+16 / ---------------------------- frmMainMenu06 لكي يتم عرض النموذج نذهب للنموذج
+
+                    GeneralVariables._frmPermissionsGroup07 = new frmPermissionsGroup07();
+                    GeneralAction.openForm(GeneralVariables._frmPermissionsGroup07);
+
+
+17 /---------------------------- التاكد من بيانات النموذج في ملف التصميم  - الاسم والنص
+
+
+
+18 / -------------------------------- حذف جميع حسابات المستخدمين ومجموعات الصلاحيات واضافتها من جديد
+

@@ -1,0 +1,97 @@
+Create New Form إنشاء نموذج جديد
+
+
+01 / --------------------------- في خصائص النموذج
+FormBorderStyle  None
+
+02 / --------------------------- في خصائص النموذج
+RightToLeft  Yes
+
+03 / --------------------------- في خصائص النموذج
+RightToLeftLayout True
+
+04 /---------------------------- في خصائص النموذج 
+Font  Size  12
+
+05 /---------------------------- GeneralVariables في كلاس
+     انشاء حاوية رئيسية
+
+06 /---------------------------- في اكواد النموذج
+ بعد انشاء حاوية رئيسية
+
+
+       public frmPermissionsGroup07()
+        {
+            InitializeComponent();
+            Allfrm07ElementsEventsAndProperties(true, true); // جميع عناصر النموذج
+        }
+
+        public void Allfrm07ElementsEventsAndProperties(bool Properties, bool Events = false)  //  جميع العناصر
+        {
+            frm07EventsAndProperties(Properties, Events); // النموذج
+            pnl000EventsAndProperties(Properties, Events); // الحاوية الرئيسية
+        }
+
+        private void frm07EventsAndProperties(bool Properties, bool Events = false) // النموذج 
+        {
+            DataTable dt = new DataTable();
+            // الخصائص
+            if (Properties)
+            {
+                this.BackColor = DisplayMode.ReturnColor(4);
+            }
+
+            // الاحداث
+            if (Events)
+            {
+                this.Load += delegate
+                {
+
+                    // اذا تم فتح النموذج واللغة ليست عربي
+                    if (GeneralVariables.cultureCode != "ar-SA")
+                    {
+                        Cultures.cheangeCultuer(this, GeneralVariables.cultureCode);
+                    }
+
+                };
+            }
+        }
+
+        private void pnl000EventsAndProperties(bool Properties, bool Events = false) // الحاوية الرئيسية
+        {
+
+            // الخصائص
+            if (Properties)
+            {
+                pnl07001.BackColor = DisplayMode.ReturnColor(4);
+                pnl07001.Left = (this.Width - pnl07001.Width) / 2;
+                // pnl07001.Top = (this.Height - pnl07001.Height) / 2; // محذوفة لانه يتم تحديد الارتفاع بشكل الي
+            }
+
+            // الاحداث
+            if (Events)
+            {
+
+            }
+        }
+
+
+
+07 /----------------------------وذلك لكي يمكننا الذهاب الى نموذج اخر ومن ثم العودة النموذج مرة اخرى  GeneralVariables في كلاس
+
+    public static  frmPermissionsGroup07 _frmPermissionsGroup07 ; // 08020 // نموذج مجموعات الصلاحيات
+
+08 / ---------------------------وذلك لتحديث الخصائص بعد العمليات الرئيسية  مثل فتح نموذج او تغيير لغة او تغيير حجم  GeneralAction في كلاس
+
+        if (GeneralVariables._frmPermissionsGroup07 != null) { GeneralVariables._frmPermissionsGroup07.Allfrm07ElementsEventsAndProperties(true); } // تحديث خصائص نموذج مجموعات الصلاحيات
+
+09 / ---------------------------- frmMainMenu06 لكي يتم عرض النموذج نذهب للنموذج
+
+                    GeneralVariables._frmPermissionsGroup07 = new frmPermissionsGroup07();
+                    GeneralAction.openForm(GeneralVariables._frmPermissionsGroup07);
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Mesrakh.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="form_Width" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="form_Height" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="form_left" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="form_top" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UniqID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Non</Value>
+    </Setting>
+    <Setting Name="EndDateOfLicense" Type="System.String" Scope="User">
+      <Value Profile="(Default)">2000/1/1</Value>
+    </Setting>
+    <Setting Name="programName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Non</Value>
+    </Setting>
+    <Setting Name="OperationUnitNumber" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

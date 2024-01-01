@@ -1,0 +1,10 @@
+
+Tools >> NuGet Packege Maneger >> Package Manager Console >> Install-Package System.Management -Version 5.0.0  // استخراج رقم الهارديسك والمعالج
+
+
+Tools >> NuGet Packege Maneger >> Package Manager Console >> install-package system.data.sqlite  // قاعدة بيانات اس كيو ال لايت
+
+
+on your project >> right click >> add >> Reference  >> configuration >> ok
+
+

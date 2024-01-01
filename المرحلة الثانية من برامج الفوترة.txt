@@ -1,0 +1,6 @@
+اهم التقنيات والمصطلحات المستخدمة
+API
+XML UBL-Invoice-2.0
+UBL = understanding the universal business language = فهم لغة الاعمال العالمية
+https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=ubl
+
